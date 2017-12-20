@@ -35,5 +35,5 @@
 		}
 		return result;	
 	};
-	// secondDegreeEquationResult(1,-5,6);
+	secondDegreeEquationResult(1,-5,6);
 })();
