@@ -25,7 +25,8 @@ secondDegreeEquationResult(1,-5,6);
 			  x1 = 3, 
 			  x2 = 2, 
 			  message = "Exit" 
-			} */
+			}
+*/
 
 // caso con una raiz cuadrada negativa 
 secondDegreeEquationResult(1,2,2);
@@ -41,6 +42,7 @@ secondDegreeEquationResult(0,4,5);
 /* result = {
 			  x1 = "Error",
 			  X2 = "Error",
-			  message = "Todo numero dividido entre cero es un error"}
+			  message = "Todo numero dividido entre cero es un error"
+			}
 */
 ```
