@@ -1,0 +1,23 @@
+{
+  "name": "ecuacion2dogrado",
+  "version": "1.0.0",
+  "description": "Ecuacion de Segundo Grado",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zitle-Nancy/ecuacion2doGrado.git"
+  },
+  "keywords": [
+    "Library",
+    "ecuacion-segundo-grado"
+  ],
+  "author": "Nancy Zitle Juarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zitle-Nancy/ecuacion2doGrado/issues"
+  },
+  "homepage": "https://github.com/Zitle-Nancy/ecuacion2doGrado#readme"
+}
