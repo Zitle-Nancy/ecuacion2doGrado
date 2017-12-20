@@ -1,6 +1,6 @@
 {
   "name": "ecuacion2dogrado",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ecuacion de Segundo Grado",
   "main": "index.js",
   "scripts": {
